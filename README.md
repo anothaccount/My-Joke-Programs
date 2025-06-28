@@ -1,5 +1,7 @@
 # My-Joke-Programs
 All my harmless joke programs before I started making GDI malwares (including vbs and batch)
+  
+WARNING: Some may be very old and cringy 
 
 testing69 - survive 1 minute of insane gdi effects
   
