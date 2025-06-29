@@ -1,0 +1,1 @@
+result=Msgbox("C:\WINDOWS\Desktop is not accessible." & vbNewLine & ""  & vbNewLine & "This folder was moved or removed.",0+16, "Desktop")

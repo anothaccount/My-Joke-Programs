@@ -1,0 +1,1 @@
+Message = MsgBox("Error! The media player must now be terminated.", 0+16, "")
